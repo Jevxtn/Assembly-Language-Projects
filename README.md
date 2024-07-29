@@ -19,3 +19,4 @@ To work with these assembly projects, you will need:
 
 - An assembler (e.g., NASM, MASM, or GAS)
 - A compatible emulator or hardware to run the assembled code
+- EMU8086 
